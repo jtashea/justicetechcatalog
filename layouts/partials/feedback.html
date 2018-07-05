@@ -1,5 +1,4 @@
-{{ $related := .Site.RegularPages.Related . | first 5 }}
-{{ with $related }}
+
 <h3>Suggest Changes</h3>
 <ul>
 	<form action="https://formspree.io/your@email.com"
@@ -10,5 +9,4 @@
     <input type="submit" value="Send">
     </form> 
 </ul>
-{{ end }}
 
