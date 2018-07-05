@@ -1,7 +1,6 @@
 +++
 # Projects widget.
-widget = "custom"
-layout = "home/widgets/project-mod.html"
+widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
