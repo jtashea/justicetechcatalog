@@ -1,6 +1,7 @@
 +++
 # Projects widget.
-widget = "project-mod"
+widget = "custom"
+layout = "project-mod"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -30,7 +31,7 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
    name = "All"
-   project_types = "*"
+   tag = "*"
 #  
 [[filter]]
    name = "Stakeholder Tools"
