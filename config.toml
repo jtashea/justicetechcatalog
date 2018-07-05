@@ -1,178 +1,263 @@
-# Site settings
-baseURL = "https://cranky-lamarr-dd2ed9.netlify.com/"
-languageCode = "en-us"
-title = "Forty"
-theme = "forty"
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
 
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+# The URL of your website.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"
 
-# Enter your disqus shortname to enable comments
+# Title of your site
+title = "Criminal Justice Tech Index"
+
+# Your copyright notice - appears in site footer.
+# To display a copyright symbol, type `&copy;`.
+copyright = "&copy; 2018"
+
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10
+
+# Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = ""
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+
+# Get last modified date for content from Git?
+enableGitInfo = false
+
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/readfiles/bfconfig/
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+
 [params]
-  # You can use Markdown syntax for urls [text](//url.to/source)
-  # To create multi-line text in strings use the """example Text""" format
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+  color_theme = "default"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "default"
+
+  # Your details.
+  name = ""
+  role = ""
+
+  # Organizations/Affiliations.
+  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  organizations = [ ]
+
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  email = "jason@justicecodes.org"
+  telegram = ""
+
+  # Enable Keybase in Contact widget by entering your keybase.io username.
+  keybase = ""
+
+  # Discussion link (e.g. link to a forum, mailing list, or chat).
+  #   Uncomment line below to use.
+  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+
+  # Diplay a logo in navigation bar rather than title (optional).
+  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = ""
+
+  # Enable/disable map in Contact widget.
+  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+  # a map provider below.
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `map = 2`.
+  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
   #
-  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
-  # for more icons. The icons are represented by their corresponding
-  # CSS class.
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  map = 0
+  map_api_key = ""
+  latitude = "37.4275"
+  longitude = "-122.1697"
+  zoom = 15
 
-  # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Jan 2, 2006"
+  #   Examples: "3:04 pm" or "15:04"
+  time_format = "3:04 PM"
 
-  # Link custom assets relative to /static
+  # Show estimated reading time for posts?
+  reading_time = false
+
+  # Display comment count? Requires commenting to be enabled.
+  comment_count = false
+
+  # Display next/previous section pager?
+  section_pager = false
+
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = false
+
+  # Highlight.js options
+  #   highlight
+  #     Enable global source code highlighting?  If false, you can
+  #     override it for a particular page in that page's preamble.
+  #
+  #     Example: highlight = true
+  #
+  #   highlight_languages
+  #     Add support for highlighting additional languages. Support for
+  #     languages mentioned here will be included in all pages. You
+  #     can also set this variable for a particular page in that
+  #     page's preamble.
+  #
+  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  #
+  #   highlight_style
+  #     Choose a different CSS style for highlighting source
+  #     code. Setting this option in a page's preamble has no
+  #     effect.
+  #
+  #     Example: highlight_style = "github-gist"
+  #
+  #   For the list of supported languages and styles, see:
+  #   https://cdnjs.com/libraries/highlight.js/
+  #
+  #   For more info on the highlighting options, see:
+  #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
+  highlight = true
+  highlight_languages = []
+  # highlight_style = "github"
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = false
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
   custom_css = []
   custom_js  = []
-  favicon    = "favicon.ico"
 
-  # Just a custom image variable, please define it in .md files for content.
-  image = ""
-
-  # 404 error customization
-  [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
-
-  # Navigation Section
-  [params.navigation]
-    title = "Criminal Justice Tech Index"
-    subtitle = "By Justice Codes"
-    menu = "Menu"
-    # Optional logo as brand stored in img/
-    # logo = "logo.png"
-
-    [[params.navigation.links]]
-      name = "Home"
-      url = "#"
-
-    [[params.navigation.links]]
-      name = "Projects"
-      url = "projects"
-
-    [[params.navigation.links]]
-      name = "About"
-      url = "about"
-
-
-    # Add custom links here by uncommenting code below. To remove links just delete
-    # the [[params.navigation.links]] map associated with that link. Copy and paste
-    # code below if you need more links. Buttons work in the same way.
-    # [[params.navigation.links]]
-    #    name = "NameOfLink"
-    #    url = "UrlOfLink"
-
-    # Button Style 1
-   # [[params.navigation.button1]]
-    #  name = "Get Started"
-  #    url = "blogs"
-
-    # Button Style 2
-   # [[params.navigation.button2]]
-   #   name = "Log In"
-   #   url = "#"
-
-
-  # Banner section
-  [params.banner]
-    # To change the background image on the homepage banner, replace 'banner.jpg' in
-    # the 'static/img' folder.
-    title = "The Criminal Justice Technology Index"
-    subtitle = "A curated list of criminal justice data and technolgy projects."
-    buttonText = "About the Index"
-
-
-  # Tiles Section
-  [params.tiles]
-    enable = true
-    # Display your showcases here.
-    
-    [[params.tiles.showcase]]
-      title = "Stakeholder Tools"
-      subtitle = "Tools used primarily by criminal justice stakeholders."
-      image = "pic01.jpg"
-      url = "project_types/stakeholders"
-
-    [[params.tiles.showcase]]
-      title = "Crowdsourcing Tools"
-      subtitle = "Tools that rely on community-generated reports."
-      image = "pic02.jpg"
-      url = "project_types/crowdsourcing"
-
-    [[params.tiles.showcase]]
-      title = "Data Projects"
-      subtitle = "Collecting, analyzing, and reporting data."
-      image = "pic03.jpg"
-      url = "project_types/data"
-
-    [[params.tiles.showcase]]
-      title = "Predictive Tools"
-      subtitle = "Tools that see the future."
-      image = "pic04.jpg"
-      url = "project_types/predictive"
-    # You can make more showcases by copy and pasting the code above
-
-  [params.blog]
-    # All blogs defined in their own files. You can find example blogs
-    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
-    # at the root of this Hugo site.
-    # For more informtion take a look at the README.
-    # To add more blogs just copy and paste the code.
-
-  
-
-
-  # Contact section
-  [params.contact]
-    enable = false
-    buttonSend = "Send message"
-    buttonClear = "Clear"
-
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below and uncomment
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
-
-    # Contact Section
-    # You can add multiple emails, phone numbers, or addresses
-    # by copying the corresponding map with frontmatter code.
-    [[params.contact.email]]
-    title = "Email"
-    email = "jason@justicecodes.org"
-
-  # Footer section
-  [params.footer]
-    enable = true
-    copyright = "Justice Codes"
-
-    # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com/justicecodes"
-      label = "Twitter"
-
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+  #   translated.
+  publication_types = [
    
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
+  ]
 
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
+  # Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = false
+
+  # Configuration of publication pages.
+  [params.publications]
+    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "January, 2006"
+
+  # Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    publication_format = 3
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:test@example.org"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/JusticeCodes"
 
 
-# Taxonomies
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/gcushen"
+
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+[params.menus]
+  # Align the main menu to the right of the page? (true/false)
+  align_right = true
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
+
+[[menu.main]]
+  name = "Statistics"
+  url = "#teaching"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
+
+# Taxonomies.
 [taxonomies]
   category = "categories"
   type = "types"
@@ -180,3 +265,10 @@ disqusShortname = ""
   organization = "organizations"
   tag = "tags"
   location = "locations"
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+
+# Configure the English version of the website.
+[Languages.en]
+  languageCode = "en-us"
