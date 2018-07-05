@@ -215,7 +215,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:jason@justicecodes.org"
 
   [[params.social]]
     icon = "twitter"
@@ -226,7 +226,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/justicecodes"
 
 
 # Navigation Links
