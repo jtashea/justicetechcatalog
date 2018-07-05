@@ -1,0 +1,6 @@
+
+{{ if $.Page.Params.organizationURL}}
+<a href="{{ $.Page.Params.organizationURL}}">{{ $.Page.Params.organization }}</a>
+{{ else }}
+{{$.Page.Params.organization}}
+{{ end }}

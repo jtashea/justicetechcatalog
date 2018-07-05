@@ -1,0 +1,3 @@
+{{ range $i, $e := $.Page.Params.tags }}
+{{ if $i }}, {{ end }}<a href="/tags/{{ $e | urlize }}">{{ $e }}</a>
+{{ end }}

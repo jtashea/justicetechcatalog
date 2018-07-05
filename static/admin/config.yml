@@ -1,0 +1,82 @@
+backend:
+  name: github
+  repo: keithporcaro/staticlist # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+- label: "Stakeholder Project"
+  name: "stakeholder_projects"
+  folder: "content/projects"
+  filter: {field: "project_types", value: "Stakeholders"}
+  create: true
+  fields:
+    - {label: "Name", name: "title", widget: "string"}
+    - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Project URL", name: "projectURL", widget: "string", required: false}
+    - {label: "Organization", name: "organization", widget: "string", required: false}
+    - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
+    - {label: "Location", name: "location", widget: "string", required: false}
+    - {label: "Open Source", name: "open_source", widget: "string", required: false}
+    - {label: "Open Data", name: "open_data", widget: "string", required: false}
+    - {label: "Compatibility", name: "compatibility", widget: "list", required: false}
+    - {label: "Outcome Measurements", name: "outcome_measurements", widget: "string", required: false}
+    - {label: "Cost To User", name: "cost", widget: "string", required: false}
+    - {label: "Founded", name: "founded", widget: "date", format: "YYYY", required: false}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}
+- label: "Crowdsourced Project"
+  name: "crowdsourced_project"
+  folder: "content/projects"
+  filter: {field: "project_types", value: "Crowdsourcing"}
+  create: true
+  fields:
+    - {label: "Name", name: "title", widget: "string"}
+    - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Project URL", name: "projectURL", widget: "string", required: false}
+    - {label: "Organization", name: "organization", widget: "string", required: false}
+    - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
+    - {label: "Location", name: "location", widget: "string", required: false}
+    - {label: "Open Source", name: "open_source", widget: "string", required: false}
+    - {label: "Outcome Measurements", name: "outcome_measurements", widget: "string", required: false}
+    - {label: "Cost To User", name: "cost", widget: "string", required: false}
+    - {label: "Founded", name: "founded", widget: "date", format: "YYYY", required: false}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}
+- label: "Predictive Tool"
+  name: "predictive_tool"
+  folder: "content/projects"
+  filter: {field: "project_types", value: "Predictive"}
+  create: true
+  fields:
+    - {label: "Name", name: "title", widget: "string"}
+    - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Project URL", name: "projectURL", widget: "string", required: false}
+    - {label: "Organization", name: "organization", widget: "string", required: false}
+    - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
+    - {label: "Location", name: "location", widget: "string", required: false}
+    - {label: "What is Predicted", name: "what_is_predicted", widget: "string", required: false}
+    - {label: "Open Source", name: "open_source", widget: "string", required: false}
+    - {label: "Ongoing", name: "cost", widget: "string", required: false}
+    - {label: "Founded", name: "founded", widget: "date", format: "YYYY", required: false}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}
+- label: "Data Project"
+  name: "data_project"
+  folder: "content/projects"
+  filter: {field: "project_types", value: "Data"}
+  create: true
+  fields:
+    - {label: "Name", name: "title", widget: "string"}
+    - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Project URL", name: "projectURL", widget: "string", required: false}
+    - {label: "Organization", name: "organization", widget: "string", required: false}
+    - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
+    - {label: "Location", name: "location", widget: "string", required: false}
+    - {label: "Public Portal", name: "public_portal", widget: "string", required: false}
+    - {label: "Bulk Download", name: "bulk_download", widget: "string", required: false}
+    - {label: "Ongoing", name: "ongoing", widget: "string", required: false}
+    - {label: "Founded", name: "founded", widget: "date", format: "YYYY", required: false}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}

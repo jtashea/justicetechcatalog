@@ -1,0 +1,3 @@
+{{ range $i, $e := $.Page.Params.compatibility }}
+{{ if $i }}, {{ end }}{{ $e }}
+{{ end }}

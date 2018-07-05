@@ -1,0 +1,3 @@
+{{ range $i, $e := $.Page.Params.categories }}
+{{ if $i }}, {{ end }}<a href="/categories/{{ $e | urlize }}">{{ $e }}</a>
+{{ end }}
