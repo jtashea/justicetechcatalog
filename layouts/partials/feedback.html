@@ -4,9 +4,9 @@
 <ul>
 	<form action="https://formspree.io/your@email.com"
       method="POST">
-    <textarea type="textarea" name="content"/>
     <input type="hidden" name="_subject" value="Feedback: {{$.Page.Params.title}}" />
     <input type="email" name="_replyto"/>
+    <textarea name="content"></textarea>
     <input type="submit" value="Send"/>
   </form> 
 </ul>
