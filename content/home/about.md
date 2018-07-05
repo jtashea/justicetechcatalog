@@ -10,6 +10,4 @@ weight = 5
 
 +++
 
-# About
-
-A curated list of criminal justice data and technology projects
+# A curated list of criminal justice data and technology projects
