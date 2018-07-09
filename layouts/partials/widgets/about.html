@@ -7,6 +7,6 @@
 
     {{ $page.Content }}
 
-    {{ len (range where .Data.Pages "Section" "projects")}}
+    {{ len (where .Data.Pages "Section" "projects")}}
   </div>
 </div>
