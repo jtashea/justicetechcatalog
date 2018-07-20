@@ -1,0 +1,129 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) {
+
+    function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
+  }
+  //  cytoscape.use( 'cola' );
+    const cy = cytoscape({
+        container: document.getElementById('cyto'),
+        boxSelectionEnabled: false,
+  autounselectify: true,
+  userZoomingEnabled: false,
+  userPanningEnabled: false,
+
+  style: cytoscape.stylesheet()
+    .selector('node')
+      .css({
+        'label': 'data(name)',
+        'text-wrap':'wrap',
+        'width':'mapData(weight, 0, 50, 100, 300)',
+        'text-max-width':'mapData(weight, 0, 50, 100, 300)',
+        'height':'mapData(weight, 0, 50, 100, 300)',
+        'text-valign': 'center',
+        'color': 'white',
+        'text-outline-width': 2,
+        'font-size': 'mapData(weight, 0, 50, 14, 36)',
+        'font-weight':700,
+        'text-outline-color': 'data(color)',
+        'background-color': 'data(color)'
+      })
+    .selector(':selected')
+      .css({
+        'background-color': 'black',
+        'line-color': 'black',
+        'target-arrow-color': 'black',
+        'source-arrow-color': 'black',
+        'text-outline-color': 'black'
+}),
+  layout:{
+    name:'cola',
+    randomize: true,
+    nodeSpacing: function( node ){ return 50; },
+    nodeDimensionsIncludeLabels: true,
+    flow: { axis: 'y', minSeparation: 100 }
+    
+  }
+
+    })
+
+    cy.on('tap', 'node', function(){
+  try { // your browser may block popups
+    window.open( this.data('href') );
+  } catch(e){ // fall back on url change
+    window.location.href = this.data('href');
+  }
+});
+
+    let projects = [
+        {{ range $project := where $.Site.RegularPages "Type" "projects"}}
+          { 
+            name: {{.Title}},
+            tags: {{$project.Params.tags}}
+          },
+        {{end}}]
+
+    let tags = [{{ range $name, $taxonomy := $.Site.Taxonomies.tags}}
+                {{ $tagCount := len $taxonomy.Pages }}
+                {{if $name}}
+              {
+               "name": {{$name}},
+               "size": {{$tagCount}},
+               "href": {{ ($.Site.GetPage "taxonomyTerm" "tags" $name).Permalink }}
+              },
+              {{end}}
+                {{end}}
+              ]
+  tags.map(function(tag){
+   const colors = ['#264653', '#2a9d8f', '#e9c46a', '#f4a261', '#e76f51']
+   const color = colors[getRandomInt(0,5)]
+    cy.add({
+      group: "nodes",
+      data: {
+            id: tag.name,
+            label: tag.name,
+            name: tag.name,
+            weight: tag.size,
+            href: tag.href,
+            color: color
+      },
+      classes:'multiline-auto'
+    })
+  })
+
+projects.map(function(project){
+    for (var i = 0; i < project.tags.length - 1; i++) {
+        for (var j = i + 1; j < project.tags.length; j++) {
+          if (project.tags[i] != "" && project.tags[j] != ""){
+            cy.add({group: "edges", data: {source: project.tags[i], target: project.tags[j]}})
+          }
+           console.log(project.tags[i], project.tags[j])
+           // addEdge(projectTags[i], projectTags[j])
+        }
+    }
+  })  
+  cy.layout({name:'cola', randomize: true}).run()
+
+})
+   
+console.log('run')
+</script>
+ 
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-xs-12 col-md-8">
+   <div id="cyto" style="height:800px;width:800px;">
+
+   </div>
+
+  </div>
+</div>
