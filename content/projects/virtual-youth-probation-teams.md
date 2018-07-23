@@ -3,7 +3,7 @@ title: "Virtual Youth Probation Teams"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: ""
 organization: "Google Government Innovation Labs"
 organizationURL: ""

@@ -14,7 +14,7 @@ compatibility: ["Web"]
 outcome_measurements: ""
 cost: "Free"
 founded: "2015"
-tags: ["Police Accountability","Open Sourced"]
+tags: ["Police Accountability","Open Source"]
 
 ---
 

@@ -12,7 +12,7 @@ open_source: "No"
 outcome_measurements: ""
 cost: "Free"
 founded: "2017"
-tags: ["Crowdsourcing","Prosectuors"]
+tags: ["Crowdsourcing","Prosecutors"]
 
 ---
 

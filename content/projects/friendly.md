@@ -14,7 +14,7 @@ compatibility: ["Web"]
 outcome_measurements: ""
 cost: "Free"
 founded: "2016"
-tags: ["Open Sourced;"]
+tags: ["Open Source"]
 
 ---
 

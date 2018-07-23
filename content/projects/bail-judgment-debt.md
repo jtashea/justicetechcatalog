@@ -3,7 +3,7 @@ title: "Bail Judgment Debt"
 draft: false
 layout: "project"
 project_types: "Data"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: ""
 organization: "Community Legal Services"
 organizationURL: ""

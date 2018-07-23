@@ -3,7 +3,7 @@ title: "SPROKIT"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: "http://www.sprokit.net/"
 organization: "SPROKIT"
 organizationURL: ""

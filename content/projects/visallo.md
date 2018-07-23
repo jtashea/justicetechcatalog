@@ -14,7 +14,7 @@ compatibility: ["Web"]
 outcome_measurements: ""
 cost: "Varies"
 founded: "2014"
-tags: ["Open Sourced","Investigation"]
+tags: ["Open Source","Investigation"]
 
 ---
 

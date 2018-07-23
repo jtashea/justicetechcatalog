@@ -14,7 +14,7 @@ compatibility: ["Web"]
 outcome_measurements: ""
 cost: "Free"
 founded: "2013"
-tags: ["A2J;"]
+tags: ["A2J"]
 
 ---
 

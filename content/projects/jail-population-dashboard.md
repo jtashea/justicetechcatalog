@@ -12,7 +12,7 @@ public_portal: "Yes, via separate Xjail data portal"
 bulk_download: "No"
 ongoing: "Yes"
 founded: "2013"
-tags: ["Data","Open Sourced"]
+tags: ["Data","Open Source"]
 ---
 
 

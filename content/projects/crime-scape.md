@@ -13,7 +13,7 @@ open_source: ""
 training_data: "Yes"
 ongoing: "Yes"
 founded: "2017"
-tags: ["Data","Open Sourced","Open Data","Predictive Policing"]
+tags: ["Data","Open Source","Open Data","Predictive Policing"]
 ---
 
 

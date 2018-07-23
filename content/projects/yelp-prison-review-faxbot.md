@@ -14,7 +14,7 @@ compatibility: ["Web","Fax"]
 outcome_measurements: ""
 cost: "Free"
 founded: "2014"
-tags: ["Open Sourced;"]
+tags: ["Open Source"]
 
 ---
 

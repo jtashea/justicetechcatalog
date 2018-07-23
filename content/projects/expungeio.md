@@ -14,7 +14,7 @@ compatibility: ["Web"]
 outcome_measurements: ""
 cost: "Free"
 founded: "2015"
-tags: ["Expungements & Pardons","Open sourced"]
+tags: ["Expungements & Pardons","Open Source"]
 
 ---
 

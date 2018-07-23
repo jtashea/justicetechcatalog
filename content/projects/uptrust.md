@@ -3,7 +3,7 @@ title: "UpTrust"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: "http://www.uptrust.co/"
 organization: "UpTrust"
 organizationURL: ""

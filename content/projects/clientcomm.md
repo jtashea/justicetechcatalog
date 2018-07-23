@@ -3,7 +3,7 @@ title: "ClientComm"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: "https://clientcomm.org/"
 organization: "Code for America"
 organizationURL: ""
@@ -14,7 +14,7 @@ compatibility: ["SMS","Web"]
 outcome_measurements: ""
 cost: "Varies"
 founded: "2016"
-tags: ["Open Sourced;"]
+tags: ["Open Source"]
 
 ---
 

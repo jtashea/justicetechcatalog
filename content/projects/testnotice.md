@@ -3,7 +3,7 @@ title: "TestNotice"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: "http://www.testnotice.com/"
 organization: "TestNotice"
 organizationURL: ""

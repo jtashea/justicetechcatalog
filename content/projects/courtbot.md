@@ -14,7 +14,7 @@ compatibility: ["SMS"]
 outcome_measurements: ""
 cost: "Normal Texting Fees Apply"
 founded: "2016"
-tags: ["Open Sourced","A2J"]
+tags: ["Open Source","A2J"]
 
 ---
 

@@ -14,7 +14,7 @@ compatibility: ["iOS","Android","Web"]
 outcome_measurements: ""
 cost: "Free to users; Fee to become a legal partner"
 founded: "2013"
-tags: ["Expungements & Pardons","Open Sourced"]
+tags: ["Expungements & Pardons","Open Source"]
 
 ---
 

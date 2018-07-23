@@ -12,7 +12,7 @@ public_portal: "No"
 bulk_download: "No"
 ongoing: "Yes"
 founded: "2016"
-tags: ["Data","Crowdsourced"]
+tags: ["Data","Crowdsourcing"]
 ---
 
 

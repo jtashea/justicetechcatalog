@@ -14,7 +14,7 @@ compatibility: ["Web & mobile"]
 outcome_measurements: ""
 cost: "SaaS model"
 founded: "2014"
-tags: ["Open Sourced;"]
+tags: ["Open Source"]
 
 ---
 

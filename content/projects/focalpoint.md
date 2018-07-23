@@ -3,7 +3,7 @@ title: "FocalPoint"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: ""
 organization: "Omnilink"
 organizationURL: ""

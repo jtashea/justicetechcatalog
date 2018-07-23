@@ -3,7 +3,7 @@ title: "Parole Board Hearing Data Project"
 draft: false
 layout: "project"
 project_types: "Data"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: "http://www.parolehearingdata.org/"
 organization: "Nikki Zeichner"
 organizationURL: ""

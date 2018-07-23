@@ -3,7 +3,7 @@ title: "Verie"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
-categories: ["Probation & Parole"]
+categories: ["Parole & Probation"]
 projectURL: "http://verie.com/"
 organization: "Verie"
 organizationURL: ""

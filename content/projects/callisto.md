@@ -14,7 +14,7 @@ compatibility: ["Web"]
 outcome_measurements: ""
 cost: "NA"
 founded: "2014"
-tags: ["Sexual Assault","Open Sourced","Crowd Sourcing","Investigation"]
+tags: ["Sexual Assault","Open Source","Crowdsourcing","Investigation"]
 
 ---
 
