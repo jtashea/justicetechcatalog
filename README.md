@@ -1,1 +1,1 @@
-#JusticeTech Catalogue Source Code
+# justiceTech Catalogue Source Code
