@@ -1,0 +1,15 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- About widget -->
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if $.Site.Params.email }}person-email{{ end }}{{ if $.Site.Params.phone }} person-telephone{{ end }}{{ if $.Site.Params.address}} person-address{{ end }}">
+  <div class="col-xs-12" itemprop="description">
+    {{ $projects := where $.Site.RegularPages "Type" "projects" }}
+    {{ $projectCount := len $projects }}
+
+    <h1>A curated list of {{$projectCount}} criminal justice data and technology projects.</h1>
+    <h2>Browse projects by category, project type, or tag.</h2> 
+
+   
+  </div>
+</div>

@@ -4,15 +4,14 @@
 <!-- About widget -->
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if $.Site.Params.email }}person-email{{ end }}{{ if $.Site.Params.phone }} person-telephone{{ end }}{{ if $.Site.Params.address}} person-address{{ end }}">
   <div class="col-xs-12" itemprop="description">
-    {{ $projects := where $.Site.RegularPages "Type" "projects" }}
-    {{ $projectCount := len $projects }}
-
-    <h1>A curated list of {{$projectCount}} criminal justice data and technology projects.</h1>
+    <h1>About the Catalogue</h1> 
+    
     <p> The Justice Tech Catalogue is a curated list of data and technology projects affecting the criminal justice system and is hosted by <a href="http://justicecodes.org/" target="_blank">Justice Codes NonProfit.</a> This collection was built as a resource for academics, advocates, computer and data scientists and system stakeholders interested in technology and criminal justice issues. In the collection, users will find open data portals and open source code for dozens of projects across all touchpoints of the criminal justice system. The catalogue is meant to be comprehensive, so inclusion is not an endorsement of the tool or its creators.</p>
 
     <p>This project was born out of work started in 2016 with the <a href="https://johnjayrec.nyc/jti/" target="_blank">John Jay College of Criminal Justice Research and Evaluation Center</a> and Jeffrey Butts. It would not have been possible without the hard work of <a href="https://twitter.com/lam_barrett?lang=en" target="_blank">Lindsey Barrett</a> and funding from Koch Industries.</p>
 
     <p>If you care to contribute, you can <a href="jason@justicecodes.org">email us</a> or take a look at our code on <a href="http://github.com/jtashea/legaltechlist-static" target="_blank">Github</a>.</p>
+   
 
    
   </div>

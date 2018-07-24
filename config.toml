@@ -17,7 +17,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-paginate = 10
+paginate = 999
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -239,8 +239,13 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#top"
   weight = 1
+
+[[menu.main]]
+  name = "Categories"
+  url = "#categories"
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
@@ -248,9 +253,19 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 5
+
+[[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
