@@ -14,6 +14,7 @@ collections:
   fields:
     - {label: "Name", name: "title", widget: "string"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
     - {label: "Organization", name: "organization", widget: "string", required: false}
     - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
@@ -34,6 +35,7 @@ collections:
   fields:
     - {label: "Name", name: "title", widget: "string"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
     - {label: "Organization", name: "organization", widget: "string", required: false}
     - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
@@ -52,6 +54,7 @@ collections:
   fields:
     - {label: "Name", name: "title", widget: "string"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
     - {label: "Organization", name: "organization", widget: "string", required: false}
     - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
@@ -70,6 +73,7 @@ collections:
   fields:
     - {label: "Name", name: "title", widget: "string"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
+    - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
     - {label: "Organization", name: "organization", widget: "string", required: false}
     - {label: "Organization URL", name: "organizationURL", widget: "string", required: false}
