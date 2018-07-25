@@ -22,6 +22,7 @@ tags: [""]
 Name                    |  Between the Bars    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

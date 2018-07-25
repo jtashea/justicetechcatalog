@@ -22,6 +22,7 @@ tags: ["Expungements & Pardons"]
 Name                    |  Online Pardon Applicaton    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

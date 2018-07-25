@@ -19,6 +19,7 @@ tags: ["Data","Police Accountability"]
 Name                    |  Cop Accountability Project    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

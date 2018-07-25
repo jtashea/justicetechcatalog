@@ -22,6 +22,7 @@ tags: ["Open Source","A2J"]
 Name                    |  CourtBot    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

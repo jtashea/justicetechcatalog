@@ -20,6 +20,7 @@ tags: ["Risk Assessment","Predictive","Data"]
 Name                    |  Ohio Risk Assessment System (ORAS)    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

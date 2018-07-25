@@ -19,6 +19,7 @@ tags: ["Data","Research"]
 Name                    |  UniCourt    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -20,6 +20,7 @@ tags: ["Risk Assessment","Predictive","Data"]
 Name                    |  Correctional Offender Management Profile for Alternative Sanctions (COMPAS)    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -19,6 +19,7 @@ tags: ["Data","Open Data"]
 Name                    |  Convicted in Cook    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

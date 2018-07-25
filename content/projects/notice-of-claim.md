@@ -22,6 +22,7 @@ tags: ["Police Accountability","Open Source"]
 Name                    |  Notice of Claim    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

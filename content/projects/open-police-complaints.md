@@ -19,6 +19,7 @@ tags: ["Police Accountability","Legal Education"]
 Name                    |  Open Police Complaints    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

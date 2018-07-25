@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Police Accountability"]
 Name                    |  I'm Getting Arrested    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

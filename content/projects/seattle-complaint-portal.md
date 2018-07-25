@@ -22,6 +22,7 @@ tags: ["Police Accountability","Open Data","Data"]
 Name                    |  Seattle Complaint Portal    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

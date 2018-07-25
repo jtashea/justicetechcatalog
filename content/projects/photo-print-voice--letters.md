@@ -22,6 +22,7 @@ tags: [""]
 Name                    |  Photo, Print, Voice, & Letters    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -19,6 +19,7 @@ tags: ["Data","Sexual Assault","Police Accountability"]
 Name                    |  Unfounded    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

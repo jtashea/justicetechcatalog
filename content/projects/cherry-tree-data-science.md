@@ -19,6 +19,7 @@ tags: ["Data"]
 Name                    |  Cherry Tree Data Science    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -20,6 +20,7 @@ tags: ["Predictive Policing"]
 Name                    |  Hitachi Visualization Predictive Crime Analytics    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -22,6 +22,7 @@ tags: ["Sexual Assault","Open Source","Crowdsourcing","Investigation"]
 Name                    |  Callisto    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Prosecutors"]
 Name                    |  Meet Your DA    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

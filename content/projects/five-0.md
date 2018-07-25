@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Police Accountability"]
 Name                    |  Five-0    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

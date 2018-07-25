@@ -22,6 +22,7 @@ tags: ["Expungements & Pardons"]
 Name                    |  MDExpungement    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -20,6 +20,7 @@ tags: ["Data","Open Source","Open Data","Predictive Policing"]
 Name                    |  Crime Scape    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

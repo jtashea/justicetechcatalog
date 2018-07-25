@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Police Accountability"]
 Name                    |  Mobile Justice App    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

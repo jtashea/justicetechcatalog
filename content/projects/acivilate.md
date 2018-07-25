@@ -22,6 +22,7 @@ tags: ["Open Source"]
 Name                    |  Acivilate    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

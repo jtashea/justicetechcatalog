@@ -19,6 +19,7 @@ tags: ["Diversion","Data"]
 Name                    |  The Restorative Justice City    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

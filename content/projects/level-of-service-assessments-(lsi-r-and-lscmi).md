@@ -20,6 +20,7 @@ tags: ["Risk Assessment","Predictive","Data"]
 Name                    |  Level of Service Assessments (LSI-R and LS/CMI)    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

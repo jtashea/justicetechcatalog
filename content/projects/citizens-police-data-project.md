@@ -19,6 +19,7 @@ tags: ["Data","Open Data","Police Accountability"]
 Name                    |  Citizens Police Data Project    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

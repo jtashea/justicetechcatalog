@@ -20,6 +20,7 @@ tags: ["Data","Predictive Policing"]
 Name                    |  Statistical Package for the Social Sciences    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

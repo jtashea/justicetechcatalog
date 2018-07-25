@@ -20,6 +20,7 @@ tags: ["Gangs","Predictive","Data"]
 Name                    |  Internet Banging Algorithm     
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

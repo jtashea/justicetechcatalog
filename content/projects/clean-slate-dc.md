@@ -22,6 +22,7 @@ tags: ["Expungements & Pardons","Open Source"]
 Name                    |  Clean Slate DC    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

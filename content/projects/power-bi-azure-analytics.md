@@ -20,6 +20,7 @@ tags: ["Data","Predictive Policing"]
 Name                    |  Power BI + Azure Analytics    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

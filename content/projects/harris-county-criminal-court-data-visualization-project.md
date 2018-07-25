@@ -19,6 +19,7 @@ tags: ["Data","Open Data"]
 Name                    |  Harris County Criminal Court Data Visualization Project    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

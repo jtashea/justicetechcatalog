@@ -22,6 +22,7 @@ tags: ["A2J"]
 Name                    |  North County Kiosk    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

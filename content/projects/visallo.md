@@ -22,6 +22,7 @@ tags: ["Open Source","Investigation"]
 Name                    |  Visallo    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -12,13 +12,14 @@ public_portal: "Yes"
 bulk_download: "Yes"
 ongoing: "Yes"
 founded: "2016"
-tags: ["Data","Open Data"]
+tags: ["Data","Open Data", "Risk Assessment"]
 ---
 
 
 Name                    |  Strategic Subjects List    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 
@@ -27,3 +28,6 @@ Bulk Download           | {{< bulk-download >}}
 Ongoing                 | {{< ongoing >}} 
 Founded                 | {{< founded >}} 
 Tags                    | {{< tags >}} 
+
+
+(^Categories\s+\|\s+{{< category >}})

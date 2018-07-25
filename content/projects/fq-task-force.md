@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Investigation"]
 Name                    |  FQ Task Force    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

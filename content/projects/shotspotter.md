@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Investigation"]
 Name                    |  ShotSpotter    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

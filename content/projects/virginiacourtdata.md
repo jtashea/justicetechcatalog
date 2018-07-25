@@ -19,6 +19,7 @@ tags: ["Data","Open Data"]
 Name                    |  VirginiaCourtData    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -22,6 +22,7 @@ tags: ["Open Source","Data","Open Data"]
 Name                    |  Open Referral    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

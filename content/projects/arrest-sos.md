@@ -22,6 +22,7 @@ tags: ["A2J","Police Accountability"]
 Name                    |  Arrest SOS    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

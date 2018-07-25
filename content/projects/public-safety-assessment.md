@@ -20,6 +20,7 @@ tags: ["Risk Assessment","Predictive","Data"]
 Name                    |  Public Safety Assessment    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -20,6 +20,7 @@ tags: ["White Collar","Data"]
 Name                    |  White Collar Crime Risk Zones    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

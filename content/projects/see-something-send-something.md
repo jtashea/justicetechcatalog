@@ -20,6 +20,7 @@ tags: ["Crowdsourcing","Investigation"]
 Name                    |  See Something Send Something    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

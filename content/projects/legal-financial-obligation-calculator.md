@@ -22,6 +22,7 @@ tags: ["A2J"]
 Name                    |  Legal Financial Obligation Calculator    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

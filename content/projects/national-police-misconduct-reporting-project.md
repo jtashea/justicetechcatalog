@@ -19,6 +19,7 @@ tags: ["Data","Open Data","Police Accountability"]
 Name                    |  National Police Misconduct Reporting Project    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -22,6 +22,7 @@ tags: ["Expungements & Pardons","Open Source"]
 Name                    |  Expunge.io    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

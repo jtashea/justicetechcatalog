@@ -19,6 +19,7 @@ tags: ["Data","Open Data","White Collar"]
 Name                    |  Corporate Prosecution Registry    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

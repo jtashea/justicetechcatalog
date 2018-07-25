@@ -19,6 +19,7 @@ tags: ["Data","Bail"]
 Name                    |  Bail Judgment Debt    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

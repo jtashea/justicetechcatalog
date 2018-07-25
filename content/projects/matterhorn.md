@@ -22,6 +22,7 @@ tags: ["A2J","Dispute Resolution "]
 Name                    |  Matterhorn    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

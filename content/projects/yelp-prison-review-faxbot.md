@@ -22,6 +22,7 @@ tags: ["Open Source"]
 Name                    |  Yelp Prison Review Faxbot    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 

@@ -20,6 +20,7 @@ tags: ["Gangs","Predictive","Data"]
 Name                    |  Finding Street Gang Members on Twitter    
 ------------------------|----
 Categories              | {{< category >}} 
+Description             | {{< description >}} 
 Project URL             | {{< projectURL >}} 
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 
