@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Archive of misconduct allegations against the Chicago Police Department"
 projectURL: "http://www.cpbinfocenter.org/"
 organization: "Chicago Justice Project"
 organizationURL: ""

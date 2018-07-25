@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Online police complaint portal"
 projectURL: "https://openpolice.org/"
 organization: "Flex Your Rights"
 organizationURL: ""

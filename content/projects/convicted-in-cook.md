@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Courts"]
+description: "Cook County conviction database"
 projectURL: "http://convictions.smartchicagoapps.org/"
 organization: "Smart Chicago, Chicago Justice Project"
 organizationURL: ""

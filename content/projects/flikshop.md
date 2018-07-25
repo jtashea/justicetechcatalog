@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Corrections"]
+description: "Converts digital photos to postcards for imprisoned people"
 projectURL: ""
 organization: "Flikshop"
 organizationURL: ""

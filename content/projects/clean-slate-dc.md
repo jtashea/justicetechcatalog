@@ -3,6 +3,7 @@ title: "Clean Slate DC"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
+description: "Determines expungement eligibility"
 categories: ["Intake & Referral"]
 projectURL: "http://cleanslatedc.com"
 organization: "Rebuilding Reentry"

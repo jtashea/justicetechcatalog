@@ -6,6 +6,7 @@ project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: "https://www.visallo.com"
 organization: "Visallo"
+description: "Data analysis for law enforcement"
 organizationURL: ""
 location: "U.S."
 open_source: "Yes"

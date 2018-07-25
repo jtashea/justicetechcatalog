@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Corrections"]
+description: "Risk and needs assessment"
 projectURL: "http://www.drc.ohio.gov/oras"
 organization: "Ohio Dept. of Rehabilitation and Correction"
 organizationURL: "http://www.drc.ohio.gov/"

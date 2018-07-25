@@ -3,6 +3,7 @@ title: "Hate Crime Help"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
+description: "\"Know your rights\" and resources for victims of hate crimes"
 categories: ["Intake & Referral"]
 projectURL: "https://hatecrimehelp.com/"
 organization: "ABA Center for Innovation"

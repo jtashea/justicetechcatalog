@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["ReEntry"]
+description: "Risk assessment for hiring decisions"
 projectURL: "http://www.cherrytreedatascience.com/"
 organization: "Cherry Tree Data Science"
 organizationURL: ""

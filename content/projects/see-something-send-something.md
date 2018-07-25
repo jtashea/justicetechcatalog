@@ -10,6 +10,7 @@ organizationURL: ""
 location: "Colorado, Louisiana, New York, Ohio, Pennsylvania, Virginia"
 open_source: "No"
 outcome_measurements: ""
+description: "Police-community engagement tool"
 cost: "Free to users"
 founded: "2008"
 tags: ["Crowdsourcing","Investigation"]

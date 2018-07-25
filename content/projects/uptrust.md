@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Parole & Probation"]
+description: "Text message reminders"
 projectURL: "http://www.uptrust.co/"
 organization: "UpTrust"
 organizationURL: ""

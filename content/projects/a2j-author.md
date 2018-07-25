@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://www.kentlaw.iit.edu/institutes-centers/center-for-access-to-justice-and-technology/a2j-author"
+description: "Creates self-help tools for legal service providers"
 organization: "Chicago-Kent College of Law & CALI"
 organizationURL: ""
 location: "U.S. & Canada"
@@ -15,7 +16,6 @@ outcome_measurements: ""
 cost: "Free for certain non-profit legal service providers"
 founded: "1999"
 tags: ["A2J"]
-
 ---
 
 

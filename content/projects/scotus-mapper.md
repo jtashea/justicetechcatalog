@@ -7,6 +7,7 @@ categories: ["Legal"]
 projectURL: "http://law.ubalt.edu/faculty/scotus-mapping/"
 organization: "University of Baltimore School of Law & the Free Law Project"
 organizationURL: ""
+description: "U.S. Supreme Court precedent data visualization tool"
 location: "U.S."
 open_source: "In Dev."
 outcome_measurements: ""

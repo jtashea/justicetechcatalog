@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Courts"]
 projectURL: "http://getmatterhorn.com/"
+description: "Online dispute resolution for courts"
 organization: "Court Innovations"
 organizationURL: ""
 location: "Michigan"

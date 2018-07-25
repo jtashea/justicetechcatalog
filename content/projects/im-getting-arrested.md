@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Sends notification of arrest"
 projectURL: "https://play.google.com/store/apps/details?id=us.quadrant2.arrested&hl=en"
 organization: "Quadrant 2, Inc."
 organizationURL: ""

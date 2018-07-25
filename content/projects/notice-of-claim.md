@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Form filler for civil claims related to police misconduct"
 projectURL: "http://notice-of-claim.herokuapp.com/"
 organization: "Justice Codes + Partners"
 organizationURL: ""

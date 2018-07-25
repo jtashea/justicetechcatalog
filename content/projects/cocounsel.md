@@ -3,6 +3,7 @@ title: "Co/Counsel"
 draft: false
 layout: "project"
 project_types: "Crowdsourcing"
+description: "Flowcharts of the law"
 categories: ["Legal"]
 projectURL: "http://www.cocounsel.co/maps"
 organization: "Co/Counsel"

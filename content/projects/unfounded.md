@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Reporting on how law enforcement treats sexual-assault victims in Canada"
 projectURL: "https://beta.theglobeandmail.com/news/investigations/compare-unfounded-sex-assault-rates-across-canada/article33855643/?ref=http://www.theglobeandmail.com&"
 organization: "The Globe and Mail"
 organizationURL: ""

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Law Enforcement"]
+description: "Predictive policing platform"
 projectURL: "http://www-01.ibm.com/software/analytics/spss/11/na/cpp/"
 organization: "IBM"
 organizationURL: ""

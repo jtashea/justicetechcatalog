@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Parole & Probation"]
 projectURL: "http://www.sprokit.net/"
+description: "Connecting to reentry services"
 organization: "SPROKIT"
 organizationURL: ""
 location: "U.S."

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Corrections"]
+description: "Nationwide corrections data"
 projectURL: "http://www.justiceatlas.org/"
 organization: "Justice Mapping Center"
 organizationURL: ""

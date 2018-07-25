@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Courts"]
+description: "Text message reminders"
 projectURL: "https://www.codeforamerica.org/past-projects/court-bot"
 organization: "Code for America"
 organizationURL: ""

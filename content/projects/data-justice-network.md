@@ -3,6 +3,7 @@ title: "Data Justice Network"
 draft: false
 layout: "project"
 project_types: "Crowdsourcing"
+description: "Communication platform for justice professionals"
 categories: ["Comprehensive"]
 projectURL: "https://datajustice.us/"
 organization: "GovLab"

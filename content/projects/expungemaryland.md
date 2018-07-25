@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Determines expungement eligibility"
 projectURL: "https://docs.google.com/spreadsheets/d/1xqdPyLLza8qlgY_HJg_yTwEuvQi5iJ-1NIxzNJw8fQw/expungemaryland.org"
 organization: "Advocates for Children & Youth"
 organizationURL: ""

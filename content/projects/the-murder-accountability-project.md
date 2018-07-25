@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "http://www.murderdata.org/"
+description: "Nationwide homicide database"
 organization: "The Murder Accountability Project"
 organizationURL: ""
 location: "U.S."

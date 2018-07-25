@@ -7,6 +7,7 @@ categories: ["Law Enforcement"]
 projectURL: "https://www.solveacrime.com/"
 organization: "Qface Systems LLC."
 organizationURL: ""
+description: "Anonymous tip platform for law enforcement"
 location: "U.S."
 open_source: "No"
 outcome_measurements: ""

@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Parole & Probation"]
 projectURL: "http://www.testnotice.com/"
+description: "Drug testing"
 organization: "TestNotice"
 organizationURL: ""
 location: "Nevada, Oklahoma, Minnesota, South Dakota"

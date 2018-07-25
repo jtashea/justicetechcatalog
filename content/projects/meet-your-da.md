@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Prosecutor data for the state of California"
 projectURL: "https://meetyourda.org/"
 organization: "ACLU California"
 organizationURL: ""

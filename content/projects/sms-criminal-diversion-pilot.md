@@ -7,6 +7,7 @@ categories: ["Courts"]
 projectURL: "https://www.magistratescourt.vic.gov.au/news/criminal-diversion-sms-reminder-pilot"
 organization: "Magistrate Court"
 organizationURL: ""
+description: "Text message reminders"
 location: "Victoria, Australia"
 open_source: "No"
 open_data: ""

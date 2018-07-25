@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Corrections"]
+description: "Risk and needs assessment"
 projectURL: "http://www.equivant.com/solutions/inmate-classification"
 organization: "Equivant"
 organizationURL: "http://www.equivant.com/"

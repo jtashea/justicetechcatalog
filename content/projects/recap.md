@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Legal"]
 projectURL: "https://www.recapthelaw.org/"
+description: "Federal court document collection tool"
 organization: "Princeton University & the Free Law Project"
 organizationURL: ""
 location: "U.S."

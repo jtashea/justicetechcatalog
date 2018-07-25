@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: ""
+description: "Public safety alerts"
 organization: "OpenJC"
 organizationURL: ""
 location: "New Jersey"

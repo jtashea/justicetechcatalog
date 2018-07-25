@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Corrections"]
+description: "Risk and needs assessment"
 projectURL: ""
 organization: "Washington State Institute for Criminal Justice & Washington Department of Corrections "
 organizationURL: ""

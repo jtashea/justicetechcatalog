@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Database of police misconduct"
 projectURL: ""
 organization: "New York Legal Aid Society"
 organizationURL: ""

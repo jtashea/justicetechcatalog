@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Courts"]
+description: "Data management tool for court data"
 projectURL: "https://unicourt.com/"
 organization: "UniCourt"
 organizationURL: ""

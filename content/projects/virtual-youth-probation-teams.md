@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Parole & Probation"]
+description: "Communication tool for juvenile service providers"
 projectURL: ""
 organization: "Google Government Innovation Labs"
 organizationURL: ""

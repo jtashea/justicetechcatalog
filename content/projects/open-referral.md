@@ -3,6 +3,7 @@ title: "Open Referral"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
+description: "Develops data standards for social services information"
 categories: ["Intake & Referral"]
 projectURL: "https://openreferral.org/"
 organization: "Open Referral"

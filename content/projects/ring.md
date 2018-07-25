@@ -6,6 +6,7 @@ project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: ""
 organization: "Ring"
+description: "Home security run from a smartphone"
 organizationURL: ""
 location: "Various"
 open_source: "No"

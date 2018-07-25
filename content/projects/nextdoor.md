@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Micro-social network with public safety portal"
 projectURL: "https://nextdoor.com/"
 organization: "Nextdoor"
 organizationURL: ""

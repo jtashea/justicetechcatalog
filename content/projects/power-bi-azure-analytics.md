@@ -3,6 +3,7 @@ title: "Power BI + Azure Analytics"
 draft: false
 layout: "project"
 project_types: ["Predictive"]
+description: "Predictive policing platform"
 categories: ["Law Enforcement"]
 projectURL: "https://enterprise.microsoft.com/en-us/articles/industries/government/predictive-policing-the-future-of-law-enforcement/"
 organization: "Microsoft"

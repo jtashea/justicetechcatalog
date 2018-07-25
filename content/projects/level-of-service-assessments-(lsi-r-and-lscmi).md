@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Corrections"]
+description: "Risk and needs assessment"
 projectURL: "http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi"
 organization: "Multi-Health Systems, Inc."
 organizationURL: "http://www.mhs.com/"

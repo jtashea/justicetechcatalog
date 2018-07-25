@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Parole & Probation"]
+description: "Blockchain-based bail payment platform"
 projectURL: ""
 organization: "Reshma Kamath"
 organizationURL: ""

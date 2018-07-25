@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["ReEntry"]
 projectURL: "http://acivilate.com/"
+description: "Connecting to reentry services"
 organization: "Acivilate"
 organizationURL: ""
 location: "U.S."

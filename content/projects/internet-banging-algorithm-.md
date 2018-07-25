@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Law Enforcement"]
+description: "Gang social media analysis"
 projectURL: ""
 organization: "Columbia School of Social work: Desmond Patton"
 organizationURL: "http://socialwork.columbia.edu/faculty/full-time/desmond-patton/"

@@ -8,6 +8,7 @@ projectURL: "http://www.seattle.gov/opa/file-a-complaint-about-the-seattle-polic
 organization: "Seattle Police"
 organizationURL: ""
 location: "Seattle, WA"
+description: "Online, police complaint portal"
 open_source: "No"
 open_data: "https://data.seattle.gov/City-Business/OPA-Complaint-Tracker/pafy-bfmu" 
 compatibility: ["Web"]

@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
 projectURL: "https://goodcall.nyc/"
+description: "Emergency arrest hotline"
 organization: "Bronx Defenders; Blue Ridge Labs"
 organizationURL: ""
 location: "Bronx, NY"

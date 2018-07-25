@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Law Enforcement"]
+description: "Gang social media analysis"
 projectURL: ""
 organization: "Kno.e.sis at Wright State University"
 organizationURL: "http://knoesis.org/"

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Comprehensive"]
+description: "California Department of Justice data portal"
 projectURL: "http://openjustice.doj.ca.gov/"
 organization: "California Department of Justice"
 organizationURL: ""

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Determines expungement eligibility"
 projectURL: ""
 organization: "Community Legal Services"
 organizationURL: ""

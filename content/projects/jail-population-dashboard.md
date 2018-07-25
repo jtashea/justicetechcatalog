@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Corrections"]
+description: "Real time jail population data visualization"
 projectURL: "https://cjdashboardtst.louisvilleky.gov/"
 organization: "Code for America"
 organizationURL: ""

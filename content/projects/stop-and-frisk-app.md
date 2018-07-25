@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "\"Know your rights\" and police recording"
 projectURL: "http://www.nyclu.org/app"
 organization: "NY Civil Liberties Union"
 organizationURL: ""

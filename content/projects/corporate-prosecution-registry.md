@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Data on federal organizational prosecutions"
 projectURL: "http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html"
 organization: "University of Virginia Law Library"
 organizationURL: ""

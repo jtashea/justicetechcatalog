@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Data"
 categories: ["Legal"]
 projectURL: "http://www.iftf.org/rjcity/"
+description: "Maps Oakland, CA to envision a restorative justice system"
 organization: "Institute for the Future"
 organizationURL: ""
 location: "Oakland, CA "

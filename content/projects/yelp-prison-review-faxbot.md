@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Corrections"]
+description: "Faxes Yelp reviews of prisons to the facility's warden"
 projectURL: "http://lav.io/2014/11/yelp-prison-review-faxbot/"
 organization: "Sam Lavign"
 organizationURL: ""

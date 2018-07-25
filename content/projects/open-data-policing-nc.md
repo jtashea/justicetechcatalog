@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "North Carolina traffic stop data portal"
 projectURL: "https://opendatapolicingnc.com/"
 organization: "Southern Coalition for Social Justice"
 organizationURL: ""

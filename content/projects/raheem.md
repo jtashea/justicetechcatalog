@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
 projectURL: "http://raheem.ai/"
+description: "Police experience rating portal"
 organization: "Raheem AI"
 organizationURL: ""
 location: "U.S."

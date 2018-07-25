@@ -6,6 +6,7 @@ project_types: "Predictive"
 categories: ["Law Enforcement"]
 projectURL: "https://whitecollar.thenewinquiry.com/"
 organization: "The New Inquiry Magazine"
+description: "Predictive policing platform"
 organizationURL: "thenewinquiry.com"
 location: "U.S."
 predicted: "Where white collar crime is likely to occur"

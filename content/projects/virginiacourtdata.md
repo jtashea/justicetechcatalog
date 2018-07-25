@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Courts"]
+description: "Circuit and district court database for Virginia"
 projectURL: "http://virginiacourtdata.org/"
 organization: "Ben Schoenfeld"
 organizationURL: ""

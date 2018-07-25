@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Law enforcement data collection"
 projectURL: "https://www.crimereports.com/"
 organization: "Motorola"
 organizationURL: ""

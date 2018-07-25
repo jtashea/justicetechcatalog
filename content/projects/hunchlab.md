@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Law Enforcement"]
+description: "Predictive policing platform"
 projectURL: "https://www.hunchlab.com/"
 organization: "Avazea"
 organizationURL: "https://www.azavea.com/"

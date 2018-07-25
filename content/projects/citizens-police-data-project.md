@@ -3,6 +3,7 @@ title: "Citizens Police Data Project"
 draft: false
 layout: "project"
 project_types: "Data"
+description: "Citizen complaints against the Chicago Police Department"
 categories: ["Law Enforcement"]
 projectURL: "http://cpdb.co/"
 organization: "Invisible Institute"

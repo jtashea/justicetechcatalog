@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Police shooting data"
 projectURL: "http://mappingpoliceviolence.org/"
 organization: "Various Stakeholders"
 organizationURL: ""

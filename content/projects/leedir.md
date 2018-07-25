@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Law Enforcement"]
 projectURL: "https://www.leedir.com"
+description: "Law enforcement information collection"
 organization: "Citizen Global & LA County Sheriff's Department"
 organizationURL: ""
 location: "U.S."

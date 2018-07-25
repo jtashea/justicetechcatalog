@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Law Enforcement"]
+description: "Predictive policing platform"
 projectURL: "https://www.civicscape.com/"
 organization: "CivicScape"
 organizationURL: ""

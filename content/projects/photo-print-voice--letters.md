@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Corrections"]
+description: "Connecting friends and family with imprisoned people"
 projectURL: ""
 organization: "Pigeon.ly"
 organizationURL: ""

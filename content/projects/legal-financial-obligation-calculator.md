@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Courts"]
+description: "Ability to pay fines and fees calculator for judges"
 projectURL: "http://beta.lfocalculator.org"
 organization: "Microsoft"
 organizationURL: ""

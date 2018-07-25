@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Simplifying social service delivery"
 projectURL: "http://simlab.org/blog/2016/07/19/making-complexity-friendly/"
 organization: "SIMLab"
 organizationURL: ""

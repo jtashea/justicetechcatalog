@@ -3,6 +3,7 @@ title: "Arrest SOS"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
+description: "Legal resource for those about to be arrested"
 categories: ["Intake & Referral"]
 projectURL: "http://arrestsos.com/"
 organization: "Arrest SOS"

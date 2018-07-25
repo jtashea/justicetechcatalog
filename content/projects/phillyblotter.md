@@ -3,6 +3,7 @@ title: "PhillyBlotter"
 draft: false
 layout: "project"
 project_types: "Data"
+description: "Neighborhood-level crime map for Philadelphia"
 categories: ["Law Enforcement"]
 projectURL: "http://www.phillyblotter.com/"
 organization: "Philadelinquency"

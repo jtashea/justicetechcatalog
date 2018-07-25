@@ -1,9 +1,10 @@
 ---
-title: "Chicagos Million Dollar Blocks"
+title: "Chicago's Million Dollar Blocks"
 draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Corrections"]
+description: "Cost of incarceration in Chicago data visualization"
 projectURL: "http://chicagosmilliondollarblocks.com/"
 organization: "Various Stakeholders"
 organizationURL: ""

@@ -3,6 +3,7 @@ title: "Crowd Justice"
 draft: false
 layout: "project"
 project_types: "Crowdsourcing"
+description: "Crowdfunding platform for legal actions"
 categories: ["Legal"]
 projectURL: "https://www.crowdjustice.co.uk"
 organization: "Justice Platform Ltd"

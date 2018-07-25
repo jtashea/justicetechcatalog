@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Tool for law enforcement agencies to open their data"
 projectURL: "https://www.projectcomport.org/"
 organization: "Code for America"
 organizationURL: ""

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Parole & Probation"]
+description: "New York Parole Board database"
 projectURL: "http://www.parolehearingdata.org/"
 organization: "Nikki Zeichner"
 organizationURL: ""

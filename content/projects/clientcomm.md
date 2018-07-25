@@ -3,6 +3,7 @@ title: "ClientComm"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
+description: "Text message reminders"
 categories: ["Parole & Probation"]
 projectURL: "https://clientcomm.org/"
 organization: "Code for America"

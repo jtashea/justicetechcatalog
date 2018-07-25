@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Pardon application portal"
 projectURL: "https://doc.sd.gov/pardon/"
 organization: "South Dakota Department of Corrections"
 organizationURL: ""

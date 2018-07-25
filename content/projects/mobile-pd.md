@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Law Enforcement"]
+description: "Police-community engagement tool"
 projectURL: "http://gomobilepd.com/product.html"
 organization: "Mobile PD, Inc."
 organizationURL: ""

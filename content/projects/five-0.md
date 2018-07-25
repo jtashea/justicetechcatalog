@@ -3,6 +3,7 @@ title: "Five-0"
 draft: false
 layout: "project"
 project_types: "Crowdsourcing"
+description: "File police incident reports"
 categories: ["Law Enforcement"]
 projectURL: "http://fiveo.us/"
 organization: "Pinetart, Inc."

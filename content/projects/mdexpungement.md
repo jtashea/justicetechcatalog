@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Determines expungement eligibility"
 projectURL: "http://www.mdexpungement.com/"
 organization: "Maryland Legal Apps LLC"
 organizationURL: ""

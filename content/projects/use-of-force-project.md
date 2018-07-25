@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Collection of police use of force policies "
 projectURL: "http://useofforceproject.org/"
 organization: "Various Stakeholders"
 organizationURL: ""

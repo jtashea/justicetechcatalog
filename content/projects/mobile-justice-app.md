@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Know-your-rights and police recording"
 projectURL: "https://www.aclu.org/feature/aclu-apps-record-police-conduct"
 organization: "ACLU"
 organizationURL: ""

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Law Enforcement"]
+description: "Emergency alerting system"
 projectURL: ""
 organization: "Swift Reach"
 organizationURL: ""

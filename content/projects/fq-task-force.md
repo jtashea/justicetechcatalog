@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Police-community engagement tool"
 projectURL: "http://www.fqtaskforce.com/"
 organization: "SDT Productions"
 organizationURL: ""

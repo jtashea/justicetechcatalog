@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
 projectURL: "https://spotcrime.com/"
+description: "Crime mapping"
 organization: "SpotCrime"
 organizationURL: ""
 location: "U.S."

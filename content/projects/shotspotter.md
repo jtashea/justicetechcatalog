@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Gunshot detection"
 projectURL: "http://www.shotspotter.com/"
 organization: "SST"
 organizationURL: ""

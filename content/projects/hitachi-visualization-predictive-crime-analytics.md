@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Law Enforcement"]
+description: "Predictive policing platform"
 projectURL: "https://www.hds.com/en-us/news-insights/press-releases/2015/gl150928.html"
 organization: "Hitachi Data Systems Corporation"
 organizationURL: "https://www.hds.com/en-us/home.html"

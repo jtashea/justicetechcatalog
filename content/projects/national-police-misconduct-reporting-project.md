@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Police misconduct research project"
 projectURL: "https://www.policemisconduct.net"
 organization: "Cato Institute"
 organizationURL: ""

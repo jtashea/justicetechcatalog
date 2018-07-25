@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Law Enforcement"]
+description: "Computer aided police dispatch"
 projectURL: "https://www.mark43.com/cad/"
 organization: "Mark43"
 organizationURL: ""

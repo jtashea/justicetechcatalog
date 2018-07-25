@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Law Enforcement"]
+description: "Creates private 9-1-1 community"
 projectURL: "https://maymay.net/blog/2015/11/25/a-sneak-peek-at-better-angels-buoy-the-private-enhanced-9-1-1-for-your-personal-community/"
 organization: "Better Angel Collective"
 organizationURL: ""

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Predictive"
 categories: ["Corrections"]
+description: "Risk and needs assessment"
 projectURL: "http://www.nccdglobal.org/assessment/correctional-assessment-and-intervention-system-cais"
 organization: "National Council on Crime and Delinquency"
 organizationURL: "http://www.nccdglobal.org/"

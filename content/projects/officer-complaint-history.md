@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Police Conduct Review data portal for Minneapolis"
 projectURL: "http://www.ci.minneapolis.mn.us/civilrights/policereview/opcr-data"
 organization: "Minneapolis Police Department"
 organizationURL: ""

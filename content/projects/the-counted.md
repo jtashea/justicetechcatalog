@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Police shooting data"
 projectURL: "http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database"
 organization: "The Guardian"
 organizationURL: ""

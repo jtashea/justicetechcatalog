@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Police shooting data"
 projectURL: "http://killedbypolice.net/"
 organization: "Killed By Police"
 organizationURL: ""

@@ -3,6 +3,7 @@ title: "Clear My Record"
 draft: false
 layout: "project"
 project_types: "Stakeholders"
+description: "Determines expungement eligibility"
 categories: ["Intake & Referral"]
 projectURL: "https://clearmyrecord.codeforamerica.org/"
 organization: "Code for America"

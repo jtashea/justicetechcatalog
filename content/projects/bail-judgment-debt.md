@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Parole & Probation"]
+description: "Outstanding bail debt database for Philadelphia"
 projectURL: ""
 organization: "Community Legal Services"
 organizationURL: ""

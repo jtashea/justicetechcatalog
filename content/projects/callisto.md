@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Intake & Referral"]
+description: "Sexual assault reporting tool"
 projectURL: "https://demo.callistocampus.org/"
 organization: "Sexual Health Innovations"
 organizationURL: ""

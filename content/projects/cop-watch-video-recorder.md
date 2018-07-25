@@ -3,6 +3,7 @@ title: "Cop Watch Video Recorder"
 draft: false
 layout: "project"
 project_types: "Crowdsourcing"
+description: "Police recording"
 categories: ["Law Enforcement"]
 projectURL: "http://nepv.org/cop-watch/download-app"
 organization: "Network for Elimination of Police Violence"

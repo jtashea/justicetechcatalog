@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Parole & Probation"]
+description: "Parolee and probationer monitoring"
 projectURL: "http://www.osmnow.com/"
 organization: "Outreach Smartphone Monitoring"
 organizationURL: ""

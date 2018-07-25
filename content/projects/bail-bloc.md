@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Crowdsourcing"
 categories: ["Parole & Probation"]
+description: "Raises cryptocurrency to help pay for bail"
 projectURL: "https://bailbloc.thenewinquiry.com/"
 organization: "The New Inquiry"
 organizationURL: ""

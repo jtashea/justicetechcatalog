@@ -2,6 +2,7 @@
 title: "Appolition"
 draft: false
 layout: "project"
+description: "Crowdfunding platform to help pay for bail"
 project_types: "Crowdsourcing"
 categories: ["Parole & Probation"]
 projectURL: "https://appolition.us"

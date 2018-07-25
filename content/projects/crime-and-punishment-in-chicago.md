@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Comprehensive"]
+description: "Chicago criminal justice system data portal"
 projectURL: "http://crime-punishment.smartchicagoapps.org/"
 organization: "Smart Chicago, Chicago Justice Project"
 organizationURL: ""

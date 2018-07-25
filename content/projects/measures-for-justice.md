@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Comprehensive"]
+description: "Collecting county level criminal justice system data nationwide"
 projectURL: "http://measuresforjustice.org/"
 organization: "Measures for Justice"
 organizationURL: ""

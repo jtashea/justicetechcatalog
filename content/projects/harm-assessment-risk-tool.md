@@ -2,6 +2,7 @@
 title: "Harm Assessment Risk Tool"
 draft: false
 layout: "project"
+description: "Risk and needs assessment"
 project_types: "Predictive"
 categories: ["Corrections"]
 projectURL: ""

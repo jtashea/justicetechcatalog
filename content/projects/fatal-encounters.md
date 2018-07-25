@@ -3,6 +3,7 @@ title: "Fatal Encounters"
 draft: false
 layout: "project"
 project_types: "Data"
+description: "Police shooting data"
 categories: ["Law Enforcement"]
 projectURL: "http://www.fatalencounters.org/"
 organization: "D. Brian Burghart"

@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Stakeholders"
 categories: ["Courts"]
+description: "Court navigation and form generator kiosk"
 projectURL: ""
 organization: "Mohave Superior Court"
 organizationURL: ""

@@ -5,6 +5,7 @@ layout: "project"
 project_types: "Stakeholders"
 categories: ["Corrections"]
 projectURL: "https://betweenthebars.org/"
+description: "Web blog platform for imprisoned people"
 organization: "MIT Center for Civic Media"
 organizationURL: ""
 location: "U.S."

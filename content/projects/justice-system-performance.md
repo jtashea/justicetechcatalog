@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Law Enforcement"]
+description: "Cuyahoga County Office of the Prosecutor data visualization"
 projectURL: "http://prosecutor.cuyahogacounty.us/en-US/justice-system-performance.aspx"
 organization: "Prosecutor Office of Cuyahoga County"
 organizationURL: ""

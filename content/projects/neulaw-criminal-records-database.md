@@ -4,6 +4,7 @@ draft: false
 layout: "project"
 project_types: "Data"
 categories: ["Courts"]
+description: "Multistate, criminal record data"
 projectURL: "http://www.neulaw.org/research/crime-big-data"
 organization: "Neulaw Center for Science & Law"
 organizationURL: ""
