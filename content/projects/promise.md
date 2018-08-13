@@ -10,6 +10,9 @@ location: NA
 open_source: 'No'
 cost: NA
 founded: '2018'
+tags:
+  - Bail
+  - Crowdsourcing
 ---
 
 Name                    |  Promise 
