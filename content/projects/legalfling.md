@@ -1,6 +1,5 @@
 ---
 title: LegalFling
-project_types: "Stakeholders"
 categories:
   - Legal
 description: Sex consent app
@@ -15,6 +14,8 @@ compatibility:
 outcome_measurements: NA
 cost: Free
 founded: '2018'
+tags:
+  - Sexual Assault
 ---
 Name                    |  LegalFling   
 ------------------------|----
