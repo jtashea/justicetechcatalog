@@ -1,5 +1,6 @@
 ---
 title: Edovo
+project_types: "Stakeholders"
 categories:
   - Corrections
 description: Tablet-based education software for inmates

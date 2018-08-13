@@ -1,5 +1,6 @@
 ---
 title: uConsent
+project_types: "Stakeholders"
 description: Sex consent app
 projectURL: 'https://gunnertech.com'
 organization: Gunner Technology

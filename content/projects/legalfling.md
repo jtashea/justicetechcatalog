@@ -1,5 +1,6 @@
 ---
 title: LegalFling
+project_types: "Stakeholders"
 categories:
   - Legal
 description: Sex consent app
