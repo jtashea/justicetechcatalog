@@ -14,7 +14,9 @@ outcome_measurements: 'Yes'
 cost: Varies
 founded: '2013'
 tags:
-  - Prison; Legal Education; ReEntry
+  - Prison
+  - Legal Education
+  - ReEntry
 ---
 Name                    |  Edovo   
 ------------------------|----
