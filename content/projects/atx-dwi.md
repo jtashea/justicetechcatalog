@@ -1,6 +1,6 @@
 ---
 title: ATX DWI
-project_type: Stakeholders
+project_types: Stakeholders
 categories:
   - Legal
 description: DWI assistance

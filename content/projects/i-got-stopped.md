@@ -1,6 +1,6 @@
 ---
 title: I Got Stopped
-project_type: Stakeholders
+project_types: Stakeholders
 description: DWI assistance
 projectURL: 'https://www.benjaminlawkc.com/i-got-stopped-app/'
 organization: Benjamin Law Firm

@@ -13,7 +13,7 @@ collections:
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
-    - {label: "Project Type", name: "project_type", widget: "hidden", default: "Stakeholders"}
+    - {label: "Project Type", name: "project_types", widget: "hidden", default: "Stakeholders"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
     - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
@@ -35,7 +35,7 @@ collections:
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
-    - {label: "Project Type", name: "project_type", widget: "hidden", default: "Crowdsourcing"}
+    - {label: "Project Type", name: "project_types", widget: "hidden", default: "Crowdsourcing"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
     - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
@@ -55,7 +55,7 @@ collections:
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
-    - {label: "Project Type", name: "project_type", widget: "hidden", default: "Predictive"}
+    - {label: "Project Type", name: "project_types", widget: "hidden", default: "Predictive"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
     - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
@@ -75,7 +75,7 @@ collections:
   create: true
   fields:
     - {label: "Name", name: "title", widget: "string"}
-    - {label: "Project Type", name: "project_type", widget: "hidden", default: "Data"}
+    - {label: "Project Type", name: "project_types", widget: "hidden", default: "Data"}
     - {label: "Categories", name: "categories", widget: "list", required: false}
     - {label: "Description", name: "description", widget: "string", required: false}
     - {label: "Project URL", name: "projectURL", widget: "string", required: false}
