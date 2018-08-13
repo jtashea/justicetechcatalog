@@ -2,6 +2,7 @@
 title: LegalFling
 categories:
   - Legal
+project_types: Stakeholders
 description: Sex consent app
 projectURL: 'https://legalfling.io'
 organization: LegalThings.one

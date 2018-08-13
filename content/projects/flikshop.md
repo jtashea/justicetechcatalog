@@ -1,22 +1,23 @@
 ---
 title: Flikshop
+project_types: Stakeholders
 categories:
   - Corrections
-description: Converts digital photos to postcards for imprisoned people.
-projectURL: ''
+description: "Converts digital photos to postcards for imprisoned people."
+projectURL: ""
 organization: Flikshop
-organizationURL: ''
+organizationURL: ""
 location: U.S.
-open_source: 'No'
-open_data: ''
+open_source: "No"
+open_data: ""
 compatibility:
   - iOS
   - Android
-outcome_measurements: ''
-cost: $0.99 per postcard
-founded: '2011'
+outcome_measurements: ""
+cost: "$0.99 per postcard"
+founded: "2011"
 tags:
-  - ''
+  - ""
 ---
 
 Name                    |  Flikshop    
