@@ -1,23 +1,20 @@
 ---
-title: LegalFling
+title: Sentencing Calculator
+project_types: Stakeholders
 categories:
-  - Legal
-description: Sex consent app
-projectURL: 'https://legalfling.io'
-organization: LegalThings.one
-location: Netherlands
+  - Courts
+description: Gives sentence based on federal guidelines
+projectURL: 'https://www.sentencing.us'
+organization: Josh Goldfoot
+location: U.S.
 open_source: 'No'
-open_data: 'No'
-compatibility:
-  - iOS
-  - Android
 outcome_measurements: NA
 cost: Free
-founded: '2018'
+founded: '2015'
 tags:
-  - Sexual Assault
+  - ''
 ---
-Name                    |  LegalFling   
+Name                    |  Sentencing Calculator   
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 

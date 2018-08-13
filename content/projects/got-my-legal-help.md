@@ -1,23 +1,21 @@
 ---
-title: LegalFling
+title: Got My Legal Help
+project_types: Crowdsourcing
 categories:
   - Legal
-description: Sex consent app
-projectURL: 'https://legalfling.io'
-organization: LegalThings.one
-location: Netherlands
+description: Lawyer referral
+projectURL: 'http://gotmylegalhelp.mdom.mobi'
+organization: 'Prosperity Solutions, LLC'
+location: U.S.
 open_source: 'No'
-open_data: 'No'
-compatibility:
-  - iOS
-  - Android
-outcome_measurements: NA
+outcome_measurements: 'No'
 cost: Free
-founded: '2018'
+founded: '2015'
 tags:
-  - Sexual Assault
+  - Defense
 ---
-Name                    |  LegalFling   
+
+Name                    |  Got My Legal Help 
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 
@@ -25,8 +23,6 @@ Project URL             | {{< projectURL >}}
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 
 Open Source             | {{< open-source >}} 
-Open Data               | {{< open-data >}} 
-Compatibility           | {{< compatibility >}} 
 Outcome Measurements    | {{< outcome >}} 
 Cost to User            | {{< cost >}} 
 Founded                 | {{< founded >}} 

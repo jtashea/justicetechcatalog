@@ -1,23 +1,21 @@
 ---
-title: LegalFling
+title: Promise
+project_types: Crowdsourcing
 categories:
-  - Legal
-description: Sex consent app
-projectURL: 'https://legalfling.io'
-organization: LegalThings.one
-location: Netherlands
+  - Intake & Referral
+description: 'Service to help people avoid pretrial incarceration '
+projectURL: 'https://joinpromise.com'
+organization: Promise
+location: NA
 open_source: 'No'
-open_data: 'No'
-compatibility:
-  - iOS
-  - Android
-outcome_measurements: NA
-cost: Free
+cost: NA
 founded: '2018'
 tags:
-  - Sexual Assault
+  - Bail
+  - Crowdsourcing
 ---
-Name                    |  LegalFling   
+
+Name                    |  Promise 
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 
@@ -25,8 +23,6 @@ Project URL             | {{< projectURL >}}
 Organization            | {{< organization >}} 
 Location                | {{< location >}} 
 Open Source             | {{< open-source >}} 
-Open Data               | {{< open-data >}} 
-Compatibility           | {{< compatibility >}} 
 Outcome Measurements    | {{< outcome >}} 
 Cost to User            | {{< cost >}} 
 Founded                 | {{< founded >}} 

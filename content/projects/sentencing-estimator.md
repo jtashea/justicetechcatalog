@@ -1,23 +1,21 @@
 ---
-title: LegalFling
+title: Sentencing Estimator
+project_types: Stakeholders
 categories:
-  - Legal
-description: Sex consent app
-projectURL: 'https://legalfling.io'
-organization: LegalThings.one
-location: Netherlands
+  - Courts
+description: Gives sentence based on Alabama guidelines
+projectURL: 'https://itunes.apple.com/IN/app/id779657139'
+organization: 'Sheffield & Lentine, P.C.'
+location: Alabama
 open_source: 'No'
 open_data: 'No'
 compatibility:
   - iOS
-  - Android
 outcome_measurements: NA
 cost: Free
-founded: '2018'
-tags:
-  - Sexual Assault
+founded: '2014'
 ---
-Name                    |  LegalFling   
+Name                    |  Sentencing Estimator   
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 

@@ -1,23 +1,24 @@
 ---
-title: LegalFling
+title: Good Time Calculator
+project_types: Stakeholders
 categories:
-  - Legal
-description: Sex consent app
-projectURL: 'https://legalfling.io'
-organization: LegalThings.one
-location: Netherlands
-open_source: 'No'
+  - Corrections
+description: 'Estimates likely diminution of sentence '
+projectURL: 'http://loyolalawtech.github.io/good-time-calculator/'
+organization: Loyola University New Orleans College of Law
+location: Louisiana
+open_source: 'https://github.com/LoyolaLawTech/good-time-calculator'
 open_data: 'No'
 compatibility:
-  - iOS
-  - Android
+  - Web
 outcome_measurements: NA
 cost: Free
-founded: '2018'
+founded: '2014'
 tags:
-  - Sexual Assault
+  - Open Source
+  - A2J
 ---
-Name                    |  LegalFling   
+Name                    |  Good Time Calculator   
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 
