@@ -1,19 +1,20 @@
 ---
-title: "Neulaw Criminal Records Database"
-draft: false
-layout: "project"
-project_types: "Data"
-categories: ["Courts"]
-description: "Multistate, criminal record data"
-projectURL: "http://www.neulaw.org/research/crime-big-data"
-organization: "Neulaw Center for Science & Law"
-organizationURL: ""
-location: "U.S."
-public_portal: "Yes"
-bulk_download: "Yes"
-ongoing: "Yes"
-founded: "2018"
-tags: ["Data","Open Data"]
+title: SciLaw Criminal Records Database
+project_types: Data
+categories:
+  - Courts
+description: 'Multistate, county-level criminal record data '
+projectURL: 'http://scilaw.org/crime-big-data/'
+organization: Center for Science & Law
+organizationURL: ''
+location: U.S.
+public_portal: 'No'
+bulk_download: 'No'
+ongoing: 'Yes'
+founded: '2008'
+tags:
+  - Data
+  - Open Data
 ---
 
 
