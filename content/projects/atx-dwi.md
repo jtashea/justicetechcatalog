@@ -13,7 +13,8 @@ outcome_measurements: NA
 cost: Free
 founded: '2014'
 tags:
-  - DWI; Legal Education
+  - DWI
+  - Legal Education
 ---
 
 Name                    |  ATX DWI   
