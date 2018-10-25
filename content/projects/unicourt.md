@@ -1,19 +1,21 @@
 ---
-title: "UniCourt"
-draft: false
-layout: "project"
-project_types: "Data"
-categories: ["Courts"]
-description: "Data management tool for court data"
-projectURL: "https://unicourt.com/"
-organization: "UniCourt"
-organizationURL: ""
-location: "U.S."
-public_portal: "No"
-bulk_download: "Yes, with a fee"
-ongoing: "Yes"
-founded: "2014"
-tags: ["Data","Research"]
+title: UniCourt
+project_types: Data
+categories:
+  - Courts
+description: Data management and research tool for court data
+projectURL: 'https://unicourt.com/'
+organization: UniCourt
+organizationURL: ''
+location: U.S.
+public_portal: 'Yes'
+bulk_download: 'Yes, potentially with a fee'
+ongoing: 'Yes'
+founded: '2014'
+tags:
+  - Data
+  - Research
+  - Crowdsourcing
 ---
 
 
