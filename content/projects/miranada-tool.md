@@ -1,5 +1,5 @@
 ---
-title: Miranada Tool
+title: Miranda Tool
 project_types: Stakeholders
 categories:
   - Law Enforcement
