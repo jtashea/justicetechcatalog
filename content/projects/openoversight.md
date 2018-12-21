@@ -12,7 +12,12 @@ bulk_download: 'Yes'
 ongoing: 'Yes'
 founded: Invalid date
 tags:
-  - Data; Open Source; Open Data; Crowdsourcing; Police Accountability; Research
+  - Data
+  - Open Source
+  - Open Data
+  - Crowdsourcing
+  - Police Accountability
+  - Research
 ---
 
 
