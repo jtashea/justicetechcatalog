@@ -10,7 +10,7 @@ organizationURL: 'https://lucyparsonslabs.com/'
 location: U.S.
 bulk_download: 'Yes'
 ongoing: 'Yes'
-founded: Invalid date
+founded: '2016'
 tags:
   - Data
   - Open Source
