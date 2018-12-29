@@ -17,6 +17,10 @@ compatibility:
 outcome_measurements: 'Yes'
 cost: NA
 founded: '2016'
+tags:
+  - Child Abuse
+  - Sex Abuse
+  - Investigation
 ---
 Name                    |  Spotlight    
 ------------------------|----
