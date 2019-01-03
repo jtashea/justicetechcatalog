@@ -25,7 +25,7 @@ tags:
   - Defense
   - Courts
 ---
-Name                    |  A Jail House Lawyer's Manual  
+Name                    |  A Jailhouse Lawyer's Manual  
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 
