@@ -2,7 +2,7 @@
 title: A Jailhouse Lawyer's Manual
 project_types: Stakeholders
 categories:
-  - Law
+  - Legal
 description: >-
   A Jailhouse Lawyer’s Manual (JLM) is a handbook of legal rights and procedures
   designed for use by people in prison.
