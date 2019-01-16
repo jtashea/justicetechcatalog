@@ -5,7 +5,7 @@ categories:
   - Law Enforcement
 description: >-
   AmberBox automates the emergency process to significantly reduce response time
-  and remove human error.
+  and remove human error when responding to an indoor gunshot.
 projectURL: 'https://amberbox.com/'
 organization: 'AmberBox, Inc.'
 location: U.S.
@@ -13,10 +13,9 @@ open_source: 'No'
 open_data: 'No'
 compatibility:
   - Web
-  - SMS
-outcome_measurements: NA
-cost: Varies
-founded: '2019'
+outcome_measurements: 'No'
+cost: 'Varies, Subscription model'
+founded: '2013'
 tags:
   - Investigation
   - Data
