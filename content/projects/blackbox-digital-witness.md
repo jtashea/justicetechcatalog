@@ -9,7 +9,7 @@ description: >-
 projectURL: 'http://www.iceblackbox.com/app/'
 organization: 'ICE BlackBox, Inc.'
 organizationURL: 'http://www.iceblackbox.com/'
-location: 'Japan, U.S.'
+location: U.S.
 open_source: 'No'
 outcome_measurements: NA
 cost: Free
@@ -17,7 +17,6 @@ founded: '2013'
 tags:
   - Police Accountability
   - Investigation
-  - ''
 ---
 
 Name                    |  BlackBox Digital Witness   
