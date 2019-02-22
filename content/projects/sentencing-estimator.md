@@ -14,6 +14,9 @@ compatibility:
 outcome_measurements: NA
 cost: Free
 founded: '2014'
+tags:
+  - Sentencing
+  - Courts
 ---
 Name                    |  Sentencing Estimator   
 ------------------------|----
