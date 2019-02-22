@@ -1,24 +1,24 @@
 ---
-title: "LegalEq"
-draft: false
-layout: "project"
-project_types: "Crowdsourcing"
-categories: ["Law Enforcement"]
-description: "Know-your-rights and police recording"
-projectURL: "http://www.legaleqapp.com/"
-organization: "Legal Equalizer LLC"
-organizationURL: ""
-location: "U.S."
-open_source: "No"
-outcome_measurements: ""
-cost: "Free"
-founded: "2017"
-tags: ["Crowdsourcing","Police Accountability"]
-
+title: Legal Equalizer
+project_types: Crowdsourcing
+categories:
+  - Law Enforcement
+description: Know-your-rights and police recording
+projectURL: 'http://www.legaleqapp.com/'
+organization: Legal Equalizer LLC
+organizationURL: ''
+location: U.S.
+open_source: 'No'
+outcome_measurements: ''
+cost: Free
+founded: '2017'
+tags:
+  - Crowdsourcing
+  - Police Accountability
 ---
 
 
-Name                    |  LegalEq    
+Name                    |  Legal Equalizer    
 ------------------------|----
 Categories              | {{< category >}} 
 Description             | {{< description >}} 
