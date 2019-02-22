@@ -12,7 +12,8 @@ outcome_measurements: NA
 cost: Free
 founded: '2015'
 tags:
-  - ''
+  - Sentencing
+  - Courts
 ---
 Name                    |  Sentencing Calculator   
 ------------------------|----
