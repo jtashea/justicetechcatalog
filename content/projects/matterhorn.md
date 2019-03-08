@@ -1,22 +1,24 @@
 ---
-title: "Matterhorn"
-draft: false
-layout: "project"
-project_types: "Stakeholders"
-categories: ["Courts"]
-projectURL: "http://getmatterhorn.com/"
-description: "Online dispute resolution for courts"
-organization: "Court Innovations"
-organizationURL: ""
-location: "Michigan"
-open_source: "No"
-open_data: ""
-compatibility: ["Web","SMS"]
-outcome_measurements: ""
-cost: "Free to Individuals, Court pays to install platform"
-founded: "2014"
-tags: ["A2J","Dispute Resolution "]
-
+title: Matterhorn
+project_types: Stakeholders
+categories:
+  - Courts
+description: Online dispute resolution for courts
+projectURL: 'http://getmatterhorn.com/'
+organization: Court Innovations
+organizationURL: ''
+location: Michigan
+open_source: 'No'
+open_data: ''
+compatibility:
+  - Web
+  - SMS
+outcome_measurements: ''
+cost: 'Free to Individuals, Court pays to install platform'
+founded: '2014'
+tags:
+  - A2J
+  - Dispute Resolution
 ---
 
 
