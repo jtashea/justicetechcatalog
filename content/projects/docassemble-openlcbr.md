@@ -4,8 +4,8 @@ project_types: Stakeholders
 categories:
   - Intake & Referral
 description: >-
-  Allows docassemble interview developers OpenLCBR to automate legal reasoning
-  about subjective questions.
+  Allows docassemble interview developers to automate legal reasoning about
+  subjective questions.
 projectURL: 'https://github.com/Gauntlet173/docassemble-openlcbr'
 organization: Jason Morris
 organizationURL: 'https://www.linkedin.com/in/jason-morris-09684023/'
