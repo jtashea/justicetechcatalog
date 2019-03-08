@@ -4,7 +4,7 @@ project_types: Stakeholders
 categories:
   - Legal
 description: >-
-  The entire 2018 Georgia criminal, criminal procedure, domestic relations and
+  The entire 2018 Georgia criminal, criminal procedure, domestic relations, and
   traffic codes.
 projectURL: 'https://www.fandysoft.com/leg-ga/'
 organization: FanDy Soft LLC
