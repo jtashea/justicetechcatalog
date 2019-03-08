@@ -5,7 +5,7 @@ categories:
   - Legal
 description: Various federal and state criminal codes.
 projectURL: 'http://app.kaboserv.com/'
-organization: Kaboserv
+organization: Kaboserv.com Development LLC
 organizationURL: 'http://kaboserv.com/'
 location: >-
   U.S., Connecticut, Maine, Minnesota, New Jersey, North Carolina, Pennsylvania,
