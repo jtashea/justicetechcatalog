@@ -17,6 +17,7 @@ founded: '2019'
 tags:
   - Police Accountability
   - Legal Education
+  - Crowdsourcing
 ---
 Name                    |  My Rights
 ------------------------|----
