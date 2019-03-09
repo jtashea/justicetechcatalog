@@ -1,5 +1,5 @@
 ---
-title: My Rights
+title: MyRights
 project_types: Stakeholders
 categories:
   - Law Enforcement
