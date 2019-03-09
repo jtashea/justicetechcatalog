@@ -20,8 +20,7 @@ cost: $3.99
 founded: '2017'
 tags:
   - Legal Education
-  - Law Enforcement
-  - ''
+  - Police Accountability
 ---
 Name                    |  Law Enforcement Guide - Georgia Edition
 ------------------------|----
