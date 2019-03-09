@@ -10,7 +10,6 @@ location: 'Australia, Canada, U.K., U.S. '
 open_source: 'No'
 open_data: 'No'
 compatibility:
-  - Android
   - iOS
 outcome_measurements: NA
 cost: Free
