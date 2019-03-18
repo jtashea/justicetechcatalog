@@ -3,28 +3,21 @@ title: Know Your Rights
 project_types: Stakeholders
 categories:
   - Law Enforcement
-description: '"Know your rights" app aimed at immigrant populations.'
-projectURL: 'https://nakasec.org/rights'
-organization: KRC Korean Resource Center
-organizationURL: 'https://nakasec.org/'
+description: A "know your rights" app.
+projectURL: >-
+  https://www.appszoom.com/android_applications/lifestyle/know-your-rights_hcyzo.html
+organization: Veech Labs
 location: U.S.
 open_source: 'No'
 open_data: 'No'
 compatibility:
   - Android
-outcome_measurements: 'No'
+outcome_measurements: NA
 cost: Free
-founded: '2019'
+founded: Invalid date
 tags:
-  - Legal Education
   - A2J
-  - Police Accountability
-  - Crimmigration
-  - Spanish
-  - Korean
-  - Mandarin
-  - Hatian Creole
-  - Portugese
+  - ''
 ---
 Name                    |  Know Your Rights
 ------------------------|----
