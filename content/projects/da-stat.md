@@ -3,7 +3,7 @@ title: DA Stat
 project_types: Data
 categories:
   - Law Enforcement; Legal
-description: The data portal for the San Francisco District Attorney's Office
+description: The data portal for the San Francisco District Attorney's Office.
 projectURL: 'https://sfdistrictattorney.org/DAStat'
 organization: San Francisco District Attorney's Office
 organizationURL: 'https://sfdistrictattorney.org'
