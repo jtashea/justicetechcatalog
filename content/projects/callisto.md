@@ -1,22 +1,25 @@
 ---
-title: "Callisto"
-draft: false
-layout: "project"
-project_types: "Stakeholders"
-categories: ["Intake & Referral"]
-description: "Sexual assault reporting tool"
-projectURL: "https://demo.callistocampus.org/"
-organization: "Sexual Health Innovations"
-organizationURL: ""
-location: "Various U.S. Universities"
-open_source: "Yes"
-open_data: ""
-compatibility: ["Web"]
-outcome_measurements: ""
-cost: "NA"
-founded: "2014"
-tags: ["Sexual Assault","Open Source","Crowdsourcing","Investigation"]
-
+title: Callisto
+project_types: Stakeholders
+categories:
+  - Intake & Referral
+description: Sexual assault reporting tool
+projectURL: 'https://demo.callistocampus.org/'
+organization: Sexual Health Innovations
+organizationURL: ''
+location: Various U.S. Universities
+open_source: 'Yes'
+open_data: ''
+compatibility:
+  - Web
+outcome_measurements: ''
+cost: NA
+founded: '2014'
+tags:
+  - Sex Abuse
+  - Open Source
+  - Crowdsourcing
+  - Investigation
 ---
 
 
