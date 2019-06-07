@@ -1,8 +1,8 @@
 ---
 title: LegalFling
+project_types: Stakeholders
 categories:
   - Legal
-project_types: Stakeholders
 description: Sex consent app
 projectURL: 'https://legalfling.io'
 organization: LegalThings.one
@@ -16,7 +16,7 @@ outcome_measurements: NA
 cost: Free
 founded: '2018'
 tags:
-  - Sexual Assault
+  - Sex Abuse
 ---
 Name                    |  LegalFling   
 ------------------------|----
