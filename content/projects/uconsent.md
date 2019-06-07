@@ -1,6 +1,6 @@
 ---
 title: uConsent
-project_types: "Stakeholders"
+project_types: Stakeholders
 description: Sex consent app
 projectURL: 'https://gunnertech.com'
 organization: Gunner Technology
@@ -11,7 +11,7 @@ outcome_measurements: N/A
 cost: Free
 founded: '2018'
 tags:
-  - Sexual Assault
+  - Sex Abuse
 ---
 Name                    |  uConsent   
 ------------------------|----
