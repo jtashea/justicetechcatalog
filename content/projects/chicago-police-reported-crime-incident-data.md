@@ -2,7 +2,7 @@
 title: Chicago Police Reported Crime Incident Data
 project_types: Data
 categories:
-  - Law Enfocement
+  - Law Enforcement
 description: Reported crime incident data from the Chicago Police Department.
 projectURL: 'https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2'
 organization: City of Chicago
